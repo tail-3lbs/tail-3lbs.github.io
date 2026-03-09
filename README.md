@@ -65,6 +65,33 @@ Some examples:
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
+## Local Testing For This Repo
+
+This repo currently works locally with `Ruby 3.1.6` managed by `rbenv`.
+
+1. Enter the repo and initialize `rbenv` in your shell:
+    ```bash
+    cd /home/jiaqi/workspace/tail-3lbs.github.io
+    export PATH="$HOME/.rbenv/bin:$PATH"
+    eval "$(rbenv init - zsh)"
+    rbenv local 3.1.6
+    ```
+1. Verify the Ruby version:
+    ```bash
+    ruby -v
+    ```
+    It should print `3.1.6`.
+1. Start the local server:
+    ```bash
+    bash run_server.sh
+    ```
+1. Open `http://127.0.0.1:4000` in your browser.
+1. If you change `_config.yml`, restart the server because Jekyll does not hot-reload config changes.
+
+Notes:
+- Do not use `export PATH="$HOME/.local/share/gem/ruby/3.2.0/bin:$PATH"` for this repo. That mixes an old Ruby 3.2 user gem path with the `rbenv` Ruby 3.1.6 environment and can break `bundle`/`jekyll`.
+- This local setup uses `bundle exec jekyll serve --no-watch`, so auto-refresh is disabled.
+
 # Acknowledges
 
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
