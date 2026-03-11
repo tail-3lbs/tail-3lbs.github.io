@@ -32,6 +32,6 @@ More details will be added soon.
 
 **CVPR 2026**
 
-[Paper]&nbsp;&nbsp;&nbsp;[Project](https://machineperceptionlab.github.io/ShorterSplatting-Project/)&nbsp;&nbsp;&nbsp;[Code](https://github.com/MachinePerceptionLab/ShorterSplatting)
+[Arxiv](https://arxiv.org/abs/2603.09277)&nbsp;&nbsp;&nbsp;[Project](https://machineperceptionlab.github.io/ShorterSplatting-Project/)&nbsp;&nbsp;&nbsp;[Code](https://github.com/MachinePerceptionLab/ShorterSplatting)
 </div>
 </div>
