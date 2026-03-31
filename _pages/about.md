@@ -15,11 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
-Jiaqi Liu is an independent researcher based in Beijing, China. This page is a personal homepage and a place to share ongoing work, projects, and updates.
-
-More details will be added soon.
+<span class='anchor' id='page-top'></span>
 
 # Publications
 
