@@ -31,3 +31,20 @@ redirect_from:
 [arXiv](https://arxiv.org/abs/2603.09277)&nbsp;&nbsp;&nbsp;[Project](https://machineperceptionlab.github.io/ShorterSplatting-Project/)&nbsp;&nbsp;&nbsp;[Code](https://github.com/MachinePerceptionLab/ShorterSplatting)
 </div>
 </div>
+
+<div style="height: 2rem;"></div>
+
+<span class='anchor' id='3d-vision'></span>
+
+# Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://tail-3lbs.github.io/3DGSSceneExplorer/'><img src='images/3dvision/teaser-room.png' alt='3DGS Scene Explorer teaser' width='100%'></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-title">3DGS Scene Explorer</span>
+
+An interactive landing page for exploring standalone 3D Gaussian Splatting viewers, including multi-view scene layouts and two-view match-ray demos.
+
+<a href="https://tail-3lbs.github.io/3DGSSceneExplorer/" target="_blank" rel="noopener noreferrer">Open Site</a>
+</div>
+</div>
