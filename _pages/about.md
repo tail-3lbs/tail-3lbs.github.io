@@ -34,7 +34,7 @@ redirect_from:
 
 <div style="height: 2rem;"></div>
 
-<span class='anchor' id='3d-vision'></span>
+<span class='anchor' id='projects'></span>
 
 # Projects
 
@@ -46,5 +46,16 @@ redirect_from:
 An interactive landing page for exploring standalone 3D Gaussian Splatting viewers, including multi-view scene layouts and two-view match-ray demos.
 
 <a href="https://tail-3lbs.github.io/3DGSSceneExplorer/" target="_blank" rel="noopener noreferrer">Open Site</a>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://tail-3lbs.github.io/3DGSEllipseViewer/' target="_blank" rel="noopener noreferrer"><img src='images/3dgs_ellipse/teaser.png' alt='3DGS Ellipse Viewer teaser' width='100%'></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class="paper-title">3DGS Ellipse Viewer</span>
+
+A static comparison page for per-view 2D Gaussian ellipse visualizations across 9 Mip-NeRF 360 scenes, contrasting COLMAP initialization with the trained model.
+
+<a href="https://tail-3lbs.github.io/3DGSEllipseViewer/" target="_blank" rel="noopener noreferrer">Open Site</a>
 </div>
 </div>
