@@ -19,16 +19,16 @@ redirect_from:
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><a href='https://machineperceptionlab.github.io/ShorterSplatting-Project/'><img src='images/cvpr26/tease.png' alt='ShorterSplatting teaser' width='100%'></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><a href='https://machineperceptionlab.github.io/ShorterSplatting-Project/' target="_blank" rel="noopener noreferrer"><img src='images/cvpr26/tease.png' alt='ShorterSplatting teaser' width='100%'></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists</span>
 
-[Jiaqi Liu](/), [Zhizhong Han](https://h312h.github.io/)
+[Jiaqi Liu](/), <a href="https://h312h.github.io/" target="_blank" rel="noopener noreferrer">Zhizhong Han</a>
 
 **CVPR 2026**
 
-[arXiv](https://arxiv.org/abs/2603.09277)&nbsp;&nbsp;&nbsp;[Project](https://machineperceptionlab.github.io/ShorterSplatting-Project/)&nbsp;&nbsp;&nbsp;[Code](https://github.com/MachinePerceptionLab/ShorterSplatting)
+<a href="https://arxiv.org/abs/2603.09277" target="_blank" rel="noopener noreferrer">arXiv</a>&nbsp;&nbsp;&nbsp;<a href="https://machineperceptionlab.github.io/ShorterSplatting-Project/" target="_blank" rel="noopener noreferrer">Project</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/MachinePerceptionLab/ShorterSplatting" target="_blank" rel="noopener noreferrer">Code</a>
 </div>
 </div>
 
@@ -38,7 +38,7 @@ redirect_from:
 
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><a href='https://tail-3lbs.github.io/3DGSSceneExplorer/'><img src='images/3dvision/teaser-room.png' alt='3DGS Scene Explorer teaser' width='100%'></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://tail-3lbs.github.io/3DGSSceneExplorer/' target="_blank" rel="noopener noreferrer"><img src='images/3dvision/teaser-room.png' alt='3DGS Scene Explorer teaser' width='100%'></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">3DGS Scene Explorer</span>
