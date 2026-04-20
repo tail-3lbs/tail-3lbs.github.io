@@ -42,7 +42,7 @@ redirect_from:
 
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><a href='https://tail-3lbs.github.io/3DGSSceneExplorer/' target="_blank" rel="noopener noreferrer"><img src='images/3dvision/teaser-room.png' alt='3DGS Scene Explorer teaser' width='100%'></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://tail-3lbs.github.io/3DGSSceneExplorer/' target="_blank" rel="noopener noreferrer"><img src='images/3dgs_scene_explorer/teaser-room.png' alt='3DGS Scene Explorer teaser' width='100%'></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">3DGS Scene Explorer</span>
@@ -53,7 +53,7 @@ An interactive landing page for exploring standalone 3D Gaussian Splatting viewe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><a href='https://tail-3lbs.github.io/3DGSEllipseViewer/' target="_blank" rel="noopener noreferrer"><img src='images/3dgs_ellipse/teaser.png' alt='3DGS Ellipse Viewer teaser' width='100%'></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><a href='https://tail-3lbs.github.io/3DGSEllipseViewer/' target="_blank" rel="noopener noreferrer"><img src='images/3dgs_ellipse_viewer/teaser.png' alt='3DGS Ellipse Viewer teaser' width='100%'></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="paper-title">3DGS Ellipse Viewer</span>
