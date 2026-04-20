@@ -3,6 +3,9 @@ main:
   - title: "Homepage"
     url: "/#page-top"
 
+  - title: "About"
+    url: "/#about"
+
   - title: "Publications"
     url: "/#publications"
 

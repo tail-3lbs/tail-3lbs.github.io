@@ -17,6 +17,10 @@ redirect_from:
 
 <span class='anchor' id='page-top'></span>
 
+<span class='anchor' id='about'></span>
+
+<span class='anchor' id='publications'></span>
+
 # Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><a href='https://machineperceptionlab.github.io/ShorterSplatting-Project/' target="_blank" rel="noopener noreferrer"><img src='images/cvpr26/tease.png' alt='ShorterSplatting teaser' width='100%'></a></div></div>
