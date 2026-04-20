@@ -9,6 +9,8 @@
 title                    : "Jiaqi Liu"
 description              : "Homepage"
 repository               : "tail-3lbs/tail-3lbs.github.io"
+url                      : "https://tail-3lbs.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
